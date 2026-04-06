@@ -1,0 +1,90 @@
+[
+  {
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "ano": 1997,
+    "paginas": 264,
+    "sinopse": "Harry descobre que é um bruxo e vai para Hogwarts, onde faz amigos e enfrenta o malvado Lord Voldemort.",
+    "preco": 44.91
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "paginas": 576,
+    "sinopse": "Um hobbit chamado Frodo recebe a tarefa de destruir um anel poderoso antes que ele caia nas mãos do mal.",
+    "preco": 71.91000000000001
+  },
+  {
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899,
+    "paginas": 256,
+    "sinopse": "Bentinho suspeita da traição de Capitu, sua esposa, e narra sua história cheia de ciúmes e dúvidas.",
+    "preco": 32.31
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "ano": 1949,
+    "paginas": 328,
+    "sinopse": "Em um regime totalitário, Winston Smith luta contra o controle do governo que vigia todos os passos dos cidadãos.",
+    "preco": 40.95
+  },
+  {
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ano": 1943,
+    "paginas": 96,
+    "sinopse": "Um piloto encontra um pequeno príncipe vindo de outro planeta e aprende lições sobre amizade e amor.",
+    "preco": 26.91
+  },
+  {
+    "titulo": "A Culpa é das Estrelas",
+    "autor": "John Green",
+    "ano": 2012,
+    "paginas": 288,
+    "sinopse": "Hazel e Augustus, dois adolescentes com câncer, se apaixonam e vivem uma história intensa e emocionante.",
+    "preco": 35.91
+  },
+  {
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "ano": 2003,
+    "paginas": 464,
+    "sinopse": "O simbologista Robert Langdon investiga um assassinato no Louvre que o leva a uma revelação sobre o Santo Graal.",
+    "preco": 53.91
+  },
+  {
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "ano": 1813,
+    "paginas": 432,
+    "sinopse": "Elizabeth Bennet enfrenta as expectativas sociais e o orgulho do senhor Darcy em uma história de amor e superação.",
+    "preco": 37.800000000000004
+  },
+  {
+    "titulo": "IT: A Coisa",
+    "autor": "Stephen King",
+    "ano": 1986,
+    "paginas": 1104,
+    "sinopse": "Um grupo de crianças enfrenta um palhaço maligno que assombra a cidade de Derry a cada 27 anos.",
+    "preco": 80.91000000000001
+  },
+  {
+    "titulo": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "ano": 1988,
+    "paginas": 208,
+    "sinopse": "Santiago, um pastor andaluz, viaja em busca de um tesouro e descobre lições sobre seu 'Lenda Pessoal'.",
+    "preco": 31.41
+  },
+  {
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "ano": 1965,
+    "paginas": 896,
+    "sinopse": "Paul Atreides lidera uma revolução no planeta desértico Arrakis, onde a especiaria é o recurso mais valioso do universo.",
+    "preco": 62.910000000000004
+  }
+]
